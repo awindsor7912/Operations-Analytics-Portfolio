@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+remote_theme: just-the-docs/just-the-docs
+title: Operational Analytics
+description: Case Studies, Sample Data Showcasing, etc. 
+aux_links:
+  "View on GitHub": https://github.com/awindsor7912
