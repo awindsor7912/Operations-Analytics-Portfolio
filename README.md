@@ -1,5 +1,7 @@
 # Operations & Data Analytics Portfolio
 
+![OPS ANALYTICS BANNER](ops-analytics.png)
+
 ## Overview
 I am a Technical Operations Analyst specializing in data-driven process improvement, workflow automation, and operational analytics. This portfolio showcases real-world reporting and analytics solutions designed to improve visibility, reduce manual effort, and support business decision-making.
 
