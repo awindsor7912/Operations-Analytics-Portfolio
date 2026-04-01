@@ -182,7 +182,7 @@ description: Professional portfolio repository showcasing analytics, automation,
         <h3>LinkedIn</h3>
         <p>Professional profile and current experience overview.</p>
         <div class="project-links">
-          <a href="http://www.linkedin.com/in/ashley-mcmillon-929799257">View LinkedIn</a>
+          <a href="www.linkedin.com/in/ashleydwindsor">View LinkedIn</a>
         </div>
       </article>
     </div>
