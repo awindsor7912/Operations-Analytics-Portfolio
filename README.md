@@ -53,10 +53,35 @@ My work focuses on bridging the gap between operations and technology by buildin
 
 ---
 
+### 3. NJUNS Billing Validation Framework
+**Objective:** Standardize joint-use (communication line) billing decisions by translating field conditions into a consistent, rule-based validation framework. Eliminate reliance on individual interpretation and reduce billing errors tied to requirement misclassification.
+
+---
+
+**Highlights:**
+- Designed a **decision-based validation framework** mapping field conditions to billing outcomes
+- Structured **Yes/No requirement logic** for:
+  - Pole cutoff vs removal
+  - New pole installation (replacement vs in-line)
+  - Communication line transfer vs attachment
+- Translated operational scenarios into **repeatable validation rules**
+- Built for **non-technical users**, enabling consistent execution across administrators
+- Aligned billing logic with work order and construction unit (CU) structures in a Maximo-type environment
+
+---
+
+**Impact:**
+- Reduced ambiguity in joint-use billing determination
+- Improved consistency across similar work order scenarios
+- Lowered risk of billing errors and rework
+- Accelerated onboarding by replacing tribal knowledge with structured logic
+
+---
+
 ## Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
-- SQL / Azure SQL
+- SQL / Azure SQL (Foundational)
 - Microsoft Power Platform
 - Data Modeling & ETL Concepts
 
